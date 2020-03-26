@@ -32,6 +32,7 @@ requirements:
     - xlsxwriter
     - tqdm
     - pyyaml
+    - pathos
     - coloredlogs
     - matplotlib-base
 
